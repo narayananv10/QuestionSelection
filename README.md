@@ -1,1 +1,3 @@
 # QuestionSelection
+
+This repository contains the code for the question selection algorithm. The 'questionselect.py' is the final script for the algorithm, which contains all the code required for the question selection algorithm to run, except the dash api, which is in another repository. The 'QS_Initial.ipynb' file contains the rough code for the initial stages of the development of the algorithm, most of the relevant bits are already covered in the script file, but there are some snippets of code related to the MongoDB database which might be useful. And the final 'TestNB.ipynb' file is the notebook used for all the testing purposes, this notebook contains, the student simulation code, and the code for the test case metrics. 
